@@ -6,5 +6,4 @@
 ![3](https://github.com/demiana55samir/social-media-using-Js/assets/65955978/ddb4f6b8-67a9-4e75-9b03-40a871fa09f8)
 ![1](https://github.com/demiana55samir/social-media-using-Js/assets/65955978/e185752f-16a3-4b99-af53-04115f4fa3ee)
 ![0](https://github.com/demiana55samir/social-media-using-Js/assets/65955978/aef8ca44-1691-43d4-a811-f57198281eef)
-![Capture0](https://github.com/demiana55samir/social-media-using-Js/assets/65955978/2fa43e34-97a5-45f6-ab9b-01b9373c1837)
 ![Capture](https://github.com/demiana55samir/social-media-using-Js/assets/65955978/c9dcac93-d25e-4dae-95ae-bda5e1318b92)
